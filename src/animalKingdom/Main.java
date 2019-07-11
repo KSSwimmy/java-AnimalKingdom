@@ -11,7 +11,9 @@ public class Main {
         }
     }
 
-    private static void workWithData() {
+    private static void workWithData() 
+
+    {
 
         // Make THE MAMS!
         Mammals panda = new Mammals("Panda", 1774);
