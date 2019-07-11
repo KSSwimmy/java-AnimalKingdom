@@ -1,6 +1,6 @@
 package animalKingdom;
 
-public abstract class abstractAnimal {
+public abstract class AbstractAnimal {
     
     // fields
     public static int maxId = 0;
@@ -9,7 +9,7 @@ public abstract class abstractAnimal {
     public int dYear;
 
     // constructor
-    public abstractAnimal(String name, int dYear) {
+    public AbstractAnimal(String name, int dYear) {
         maxId++;
         id = maxId;
         this.name = name;
