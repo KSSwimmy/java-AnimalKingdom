@@ -7,7 +7,7 @@ public class Main {
         for (AbstractAnimal a : animals) {
             if (tester.test(a)) {
                 System.out.println(a.name + " " + a.dYear);
-                System.out.println();
+
             }
         }
     }
@@ -138,6 +138,103 @@ public class Main {
 // Type javac employeeApp/*.java to compile all of the .java files
 // Type jar cvfe EmpApp.jar employeeApp.Main employeeApp/*.class to compile all the .classfiles into a jar file
 // Type java -jar EmpApp.jar to run the .jarfile you created
+
+//IT PRINTS OUT
+
+// DECENDING BY YEAR
+// armadillo
+// raccoon
+// toucan
+// swan
+// salmon
+// perch
+// Panda
+// zebra
+// sloth
+// koala
+// catfish
+// peacock
+// parrit
+// pigeon
+// bigfoot
+
+// ALPHABATIZE ME CAPTAIN
+// armadillo
+// bigfoot
+// catfish
+// koala
+// Panda
+// parrit
+// peacock
+// perch
+// pigeon
+// raccoon
+// salmon
+// sloth
+// swan
+// toucan
+// zebra
+
+// ALPHABETICALLY FROM 1758
+// armadillo 1758
+// perch 1758
+// raccoon 1758
+// salmon 1758
+// swan 1758
+// toucan 1758
+
+// MOVEMENT
+// armadillo 1758
+// bigfoot 2021
+// koala 1816
+// Panda 1774
+// raccoon 1758
+// sloth 1804
+// zebra 1778
+// parrit 1824
+// peacock 1821
+// pigeon 1837
+// swan 1758
+// toucan 1758
+// catfish 1817
+// perch 1758
+// salmon 1758
+
+// LUNGS
+// armadillo 1758
+// bigfoot 2021
+// koala 1816
+// Panda 1774
+// parrit 1824
+// peacock 1821
+// pigeon 1837
+// raccoon 1758
+// sloth 1804
+// swan 1758
+// toucan 1758
+// zebra 1778
+
+// LUNGS IN 1758
+// armadillo 1758
+// raccoon 1758
+// swan 1758
+// toucan 1758
+
+// LAY EGGS AND HAVE LUNGS
+// parrit 1824
+// peacock 1821
+// pigeon 1837
+// swan 1758
+// toucan 1758
+
+// MAMS LISTED ALPHABETICALLY
+// armadillo
+// bigfoot
+// koala
+// Panda
+// raccoon
+// sloth
+// zebra
 
 
 
